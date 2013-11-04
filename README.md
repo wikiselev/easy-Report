@@ -12,7 +12,7 @@ Rscript easy-Report.R script.Rmd report
 ```
 __Output__: The `report` folder will be created and all output report files (.R, .md, .html, html_slides) will be written in it.
 
-You can view the output report.html and slides.html pages here:
+You can view the output report.html and slides.html pages produced from the default script.Rmd here:
 
 http://wikiselev.github.io/easy-Report/report.html
 
